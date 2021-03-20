@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package calculadora;
+package javaapplication7;
 
 /**
  *
  * @author Jose
  */
-public class Calculadora {
+public class JavaApplication7 {
 
     /**
      * @param args the command line arguments
@@ -17,7 +17,5 @@ public class Calculadora {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    /*
-    *   ESTO ES UNA PRUEBA DE COMENTARIO DESDE GIT
-    */
+    
 }
